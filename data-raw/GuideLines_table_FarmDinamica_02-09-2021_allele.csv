@@ -1,0 +1,17 @@
+﻿Drug;Gene;Variant;Genotype;Category;Note
+Amisulpride;MC4R;rs489693;A/A;GIALLO;Possibile incremento ponderale e dei trigliceridi
+Citalopram;SLC6A4;LS allele;LS;GIALLO;Possibile riduzione dell'efficacia clinica
+Citalopram;SLC6A4;LS allele;SS;ROSSO;Riduzione dell'efficacia clinica e aumento del rischio di effetti collaterali
+Citalopram;FKBP5;rs4713916;G/G;GIALLO;Possibile riduzione dell'efficacia clinica
+Citalopram;HTR2A;rs7997012;G/G;GIALLO;Possibile riduzione dell'efficacia clinica
+Escitalopram;SLC6A4;LS allele;SS;GIALLO;Possibile riduzione dell'efficacia clinica
+Fluoxetine;FKBP5;rs4713916;A/G;GIALLO;Possibile riduzione dell'efficacia clinica
+Fluoxetine;FKBP5;rs4713916;G/G;GIALLO;Possibile riduzione dell'efficacia clinica
+Mirtazapine;FKBP5;rs4713916;A/G;GIALLO;Possibile riduzione dell'efficacia clinica
+Mirtazapine;FKBP5;rs4713916;G/G;GIALLO;Possibile riduzione dell'efficacia clinica
+Paroxetine;HTR1A;rs6295;C/G;GIALLO;Possibile riduzione dell'efficacia clinica
+Paroxetine;HTR1A;rs6295;C/C;GIALLO;Possibile riduzione dell'efficacia clinica
+Paroxetine;FKBP5;rs4713916;A/G;GIALLO;Possibile riduzione dell'efficacia clinica
+Paroxetine;FKBP5;rs4713916;G/G;GIALLO;Possibile riduzione dell'efficacia clinica
+Venlafaxine;FKBP5;rs4713916;A/G;GIALLO;Possibile riduzione dell'efficacia clinica
+Venlafaxine;FKBP5;rs4713916;G/G;GIALLO;Possibile riduzione dell'efficacia clinica

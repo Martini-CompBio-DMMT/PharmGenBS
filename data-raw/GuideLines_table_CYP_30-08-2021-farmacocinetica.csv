@@ -1,0 +1,220 @@
+﻿Drug ;Gene;Phenotype;Category;Indicazione clinica
+Agomelatine;CYP2C19;IM;VERDE;Nessun dato disponibile.
+Agomelatine;CYP2C19;LIM;VERDE;Nessun dato disponibile.
+Agomelatine;CYP2C19;LPM;VERDE;Nessun dato disponibile.
+Agomelatine;CYP2C19;NM;VERDE;Nessun dato disponibile.
+Agomelatine;CYP2C19;PM;VERDE;Nessun dato disponibile.
+Agomelatine;CYP2C19;RM;VERDE;Nessun dato disponibile.
+Agomelatine;CYP2C19;UM;VERDE;Nessun dato disponibile.
+Agomelatine;CYP2D6;IM;VERDE;Nessun dato disponibile.
+Agomelatine;CYP2D6;NM;VERDE;Nessun dato disponibile.
+Agomelatine;CYP2D6;PM;VERDE;Nessun dato disponibile.
+Agomelatine;CYP2D6;UM;VERDE;Nessun dato disponibile.
+Amitriptyline;CYP2C19;IM;GIALLO;Probabile riduzione del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata.
+Amitriptyline;CYP2C19;LIM;GIALLO;Probabile riduzione del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata.
+Amitriptyline;CYP2C19;LPM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata.
+Amitriptyline;CYP2C19;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Amitriptyline;CYP2C19;PM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata.
+Amitriptyline;CYP2C19;RM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata.
+Amitriptyline;CYP2C19;UM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata.
+Amitriptyline;CYP2D6;IM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 25% la dose iniziale rispetto a quella raccomandata.
+Amitriptyline;CYP2D6;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Amitriptyline;CYP2D6;PM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 30-50% la dose iniziale rispetto a quella raccomandata.
+Amitriptyline;CYP2D6;UM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Alla luce della riduzione di efficacia il dosaggio dovrebbe essere aumentato di 1.4 volte rispetto alla dose iniziale raccomandata ma, dato il possibile effetto cardiotossico, si consiglia l'utilizzo di un'altra molecola.
+Bupropion;CYP2C19;IM;VERDE;Nessun dato disponibile.
+Bupropion;CYP2C19;LIM;VERDE;Nessun dato disponibile.
+Bupropion;CYP2C19;LPM;VERDE;Nessun dato disponibile.
+Bupropion;CYP2C19;NM;VERDE;Nessun dato disponibile.
+Bupropion;CYP2C19;PM;VERDE;Nessun dato disponibile.
+Bupropion;CYP2C19;RM;VERDE;Nessun dato disponibile.
+Bupropion;CYP2C19;UM;VERDE;Nessun dato disponibile.
+Bupropion;CYP2D6;IM;VERDE;Nessun dato disponibile.
+Bupropion;CYP2D6;NM;VERDE;Nessun dato disponibile.
+Bupropion;CYP2D6;PM;VERDE;Nessun dato disponibile.
+Bupropion;CYP2D6;UM;VERDE;Nessun dato disponibile.
+Citalopram;CYP2C19;IM;ROSSO;Rischio aumentato di allungamento dell'intervallo QT e di aritmie (torsione di punta). Qualora fosse indispensabile l'utilizzo di questa molecola si raccomanda di non superare le seguenti dose giornaliere: fino a 65 anni (30mg per le compresse o 22mg per le goccie), oltre i 65 anni (15mg per le compresse o 10mg per le goccie)
+Citalopram;CYP2C19;LIM;GIALLO;Probabile riduzione del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata.
+Citalopram;CYP2C19;LPM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata, non superare mai la dose di 20mg al giorno a causa del prolungamento dell'intervallo QT. Porre attenzione in pazienti con età superiore a 60 anni e con un deficit della funzionalità epatica. Considerare una molecola alternativa.
+Citalopram;CYP2C19;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Citalopram;CYP2C19;PM;ROSSO;Maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata. Rischio aumentato di allungamento dell'intervallo QT e di aritmie (torsione di punta). Qualora fosse indispensabile l'utilizzo di questa molecola si raccomanda di non superare le seguenti dose giornaliere: fino a 65 anni (20mg per le compresse o 16mg per le goccie), oltre i 65 anni (10mg per le compresse o 8mg per le goccie)
+Citalopram;CYP2C19;RM;GIALLO;Riduzione dell'efficacia clinica. Si consiglia la scelta di una molecola alternativa tenendo anche in considerazione alcune caratteristiche del paziente (es età, funzionamento renale ed epatico).
+Citalopram;CYP2C19;UM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Si consiglia la scelta di una molecola alternativa.
+Citalopram;CYP2D6;NM;VERDE;Nessun dato disponibile.
+Citalopram;CYP2D6;IM;VERDE;Nessun dato disponibile.
+Citalopram;CYP2D6;PM;VERDE;Nessun dato disponibile.
+Citalopram;CYP2D6;UM;VERDE;Nessun dato disponibile.
+Clomipramine;CYP2C19;IM;GIALLO;Probabile riduzione del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata.
+Clomipramine;CYP2C19;LIM;GIALLO;Probabile riduzione del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata.
+Clomipramine;CYP2C19;LPM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata.
+Clomipramine;CYP2C19;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Clomipramine;CYP2C19;PM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata.
+Clomipramine;CYP2C19;RM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Si consiglia una molecola alternativa.
+Clomipramine;CYP2C19;UM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Si consiglia una molecola alternativa.
+Clomipramine;CYP2D6;IM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 25-30% la dose iniziale rispetto a quella raccomandata.
+Clomipramine;CYP2D6;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Clomipramine;CYP2D6;PM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata.
+Clomipramine;CYP2D6;UM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Alla luce della riduzione di efficacia il dosaggio dovrebbe essere aumentato di 1.5 volte rispetto alla dose iniziale raccomandata ma, dato il possibile effetto cardiotossico, si consiglia l'utilizzo di un'altra molecola.
+Duloxetine;CYP2C19;IM;VERDE;Nessun dato disponibile.
+Duloxetine;CYP2C19;LIM;VERDE;Nessun dato disponibile.
+Duloxetine;CYP2C19;LPM;VERDE;Nessun dato disponibile.
+Duloxetine;CYP2C19;NM;VERDE;Nessun dato disponibile.
+Duloxetine;CYP2C19;PM;VERDE;Nessun dato disponibile.
+Duloxetine;CYP2C19;RM;VERDE;Nessun dato disponibile.
+Duloxetine;CYP2C19;UM;VERDE;Nessun dato disponibile.
+Duloxetine;CYP2D6;NM;VERDE;Nessun dato disponibile.
+Duloxetine;CYP2D6;IM;VERDE;Nessun dato disponibile.
+Duloxetine;CYP2D6;PM;VERDE;Nessun dato disponibile.
+Duloxetine;CYP2D6;UM;VERDE;Nessun dato disponibile.
+Escitalopram;CYP2C19;IM;ROSSO;Rischio aumentato di allungamento dell'intervallo QT e di aritmie (torsione di punta). Qualora fosse indispensabile l'utilizzo di questa molecola si raccomanda di non superare le seguenti dose giornaliere: fino a 65 anni (15mg), oltre i 65 anni (7,5mg)
+Escitalopram;CYP2C19;LIM;GIALLO;Probabile riduzione del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata.
+Escitalopram;CYP2C19;LPM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata. Si consiglia la scelta di una molecola alternativa tenendo anche in considerazione alcune caratteristiche del paziente (es età, funzionamento renale ed epatico).
+Escitalopram;CYP2C19;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Escitalopram;CYP2C19;PM;ROSSO;Maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata. Rischio aumentato di allungamento dell'intervallo QT e di aritmie (torsione di punta). Qualora fosse indispensabile l'utilizzo di questa molecola si raccomanda di non superare le seguenti dose giornaliere: fino a 65 anni (10mg), oltre i 65 anni (5mg). 
+Escitalopram;CYP2C19;RM;GIALLO;Riduzione dell'efficacia clinica. Si consiglia la scelta di una molecola alternativa tenendo anche in considerazione alcune caratteristiche del paziente (es età, funzionamento renale ed epatico).
+Escitalopram;CYP2C19;UM;GIALLO;Riduzione dell'efficacia clinica. Considerare una molecola alternativa.
+Escitalopram;CYP2D6;NM;VERDE;Nessun dato disponibile.
+Escitalopram;CYP2D6;PM;VERDE;Nessun dato disponibile.
+Escitalopram;CYP2D6;IM;VERDE;Nessun dato disponibile.
+Escitalopram;CYP2D6;UM;VERDE;Nessun dato disponibile.
+Fluoxetine;CYP2C19;IM;VERDE;Nessun dato disponibile.
+Fluoxetine;CYP2C19;LIM;VERDE;Nessun dato disponibile.
+Fluoxetine;CYP2C19;LPM;VERDE;Nessun dato disponibile.
+Fluoxetine;CYP2C19;NM;VERDE;Nessun dato disponibile.
+Fluoxetine;CYP2C19;PM;VERDE;Nessun dato disponibile.
+Fluoxetine;CYP2C19;RM;VERDE;Nessun dato disponibile.
+Fluoxetine;CYP2C19;UM;VERDE;Nessun dato disponibile.
+Fluoxetine;CYP2D6;IM;VERDE;Nessun dato disponibile.
+Fluoxetine;CYP2D6;NM;VERDE;Nessun dato disponibile.
+Fluoxetine;CYP2D6;PM;VERDE;Nessun dato disponibile.
+Fluoxetine;CYP2D6;UM;VERDE;Nessun dato disponibile.
+Fluvoxamine;CYP2C19;IM;VERDE;Nessun dato disponibile.
+Fluvoxamine;CYP2C19;LIM;VERDE;Nessun dato disponibile.
+Fluvoxamine;CYP2C19;LPM;VERDE;Nessun dato disponibile.
+Fluvoxamine;CYP2C19;NM;VERDE;Nessun dato disponibile.
+Fluvoxamine;CYP2C19;PM;VERDE;Nessun dato disponibile.
+Fluvoxamine;CYP2C19;RM;VERDE;Nessun dato disponibile.
+Fluvoxamine;CYP2C19;UM;VERDE;Nessun dato disponibile.
+Fluvoxamine;CYP2D6;IM;GIALLO;Possibile presenza di effetti collaterali, non clinicamente rilevanti. Iniziare la terapia alla dose terapeutica raccomandata.
+Fluvoxamine;CYP2D6;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Fluvoxamine;CYP2D6;PM;ROSSO;Maggiore probabilità di effetti collaterali. Ridurre del 25-50% la dose iniziale rispetto a quella raccomandata.
+Fluvoxamine;CYP2D6;UM;VERDE;Nessun dato disponibile.
+Imipramine;CYP2C19;IM;GIALLO;Probabile riduzione del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata.
+Imipramine;CYP2C19;LIM;GIALLO;Probabile riduzione del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata.
+Imipramine;CYP2C19;LPM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata.
+Imipramine;CYP2C19;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Imipramine;CYP2C19;PM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 30-50% la dose iniziale rispetto a quella raccomandata.
+Imipramine;CYP2C19;RM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Si consiglia una molecola alternativa.
+Imipramine;CYP2C19;UM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Si consiglia una molecola alternativa.
+Imipramine;CYP2D6;IM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 25-30% la dose iniziale rispetto a quella raccomandata.
+Imipramine;CYP2D6;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Imipramine;CYP2D6;PM;ROSSO;Maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata.
+Imipramine;CYP2D6;UM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Dato il possibile effetto cardiotossico, si consiglia l'utilizzo di un'altra molecola.
+Mianserine;CYP2C19;IM;VERDE;Nessun dato disponibile.
+Mianserine;CYP2C19;LIM;VERDE;Nessun dato disponibile.
+Mianserine;CYP2C19;LPM;VERDE;Nessun dato disponibile.
+Mianserine;CYP2C19;NM;VERDE;Nessun dato disponibile.
+Mianserine;CYP2C19;PM;VERDE;Nessun dato disponibile.
+Mianserine;CYP2C19;RM;VERDE;Nessun dato disponibile.
+Mianserine;CYP2C19;UM;VERDE;Nessun dato disponibile.
+Mianserine;CYP2D6;IM;VERDE;Nessun dato disponibile.
+Mianserine;CYP2D6;NM;VERDE;Nessun dato disponibile.
+Mianserine;CYP2D6;PM;VERDE;Nessun dato disponibile.
+Mianserine;CYP2D6;UM;VERDE;Nessun dato disponibile.
+Mirtazapine;CYP2C19;IM;VERDE;Nessun dato disponibile.
+Mirtazapine;CYP2C19;LIM;VERDE;Nessun dato disponibile.
+Mirtazapine;CYP2C19;LPM;VERDE;Nessun dato disponibile.
+Mirtazapine;CYP2C19;NM;VERDE;Nessun dato disponibile.
+Mirtazapine;CYP2C19;PM;VERDE;Nessun dato disponibile.
+Mirtazapine;CYP2C19;RM;VERDE;Nessun dato disponibile.
+Mirtazapine;CYP2C19;UM;VERDE;Nessun dato disponibile.
+Mirtazapine;CYP2D6;IM;VERDE;Nessun effetto negativo ne in termini di efficacia ne di effetti collaterali. Iniziare la terapia alla dose terapeutica raccomandata.
+Mirtazapine;CYP2D6;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Mirtazapine;CYP2D6;PM;VERDE;Nessun effetto negativo ne in termini di efficacia ne di effetti collaterali. Iniziare la terapia alla dose terapeutica raccomandata.
+Mirtazapine;CYP2D6;UM;VERDE;Nessun effetto negativo ne in termini di efficacia ne di effetti collaterali. Iniziare la terapia alla dose terapeutica raccomandata.
+Nortriptyline;CYP2C19;IM;VERDE;Nessun dato disponibile.
+Nortriptyline;CYP2C19;LIM;VERDE;Nessun dato disponibile.
+Nortriptyline;CYP2C19;LPM;VERDE;Nessun dato disponibile.
+Nortriptyline;CYP2C19;NM;VERDE;Nessun dato disponibile.
+Nortriptyline;CYP2C19;PM;VERDE;Nessun dato disponibile.
+Nortriptyline;CYP2C19;RM;VERDE;Nessun dato disponibile.
+Nortriptyline;CYP2C19;UM;VERDE;Nessun dato disponibile.
+Nortriptyline;CYP2D6;IM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 25-40% la dose iniziale rispetto a quella raccomandata.
+Nortriptyline;CYP2D6;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Nortriptyline;CYP2D6;PM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 50-60% la dose iniziale rispetto a quella raccomandata.
+Nortriptyline;CYP2D6;UM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Alla luce della riduzione di efficacia il dosaggio dovrebbe essere aumentato di 1.7 volte rispetto alla dose iniziale raccomandata ma, dato il possibile effetto cardiotossico, si consiglia l'utilizzo di un'altra molecola.
+Paroxetine;CYP2C19;IM;GIALLO;Probabile riduzione del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata.
+Paroxetine;CYP2C19;LIM;VERDE;Nessun dato disponibile.
+Paroxetine;CYP2C19;LPM;VERDE;Nessun dato disponibile.
+Paroxetine;CYP2C19;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Paroxetine;CYP2C19;PM;ROSSO;Maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata.
+Paroxetine;CYP2C19;UM;GIALLO;Probabile incremento del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata.
+Paroxetine;CYP2D6;IM;GIALLO;Possibile presenza di effetti collaterali, non clinicamente rilevanti. Iniziare la terapia alla dose terapeutica raccomandata.
+Paroxetine;CYP2D6;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Paroxetine;CYP2D6;PM;ROSSO;Maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata. Rischio aumentato di allungamento dell'intervallo QT e di aritmie (torsione di punta). Qualora fosse indispensabile l'utilizzo di questa molecola si raccomanda di non superare le seguenti dose giornaliere: fino a 65 anni (10mg), oltre i 65 anni (5mg). 
+Paroxetine;CYP2D6;UM;GIALLO;Riduzione dell'efficacia clinica. Considerare una molecola alternativa.
+Reboxetine;CYP2C19;IM;VERDE;Nessun dato disponibile.
+Reboxetine;CYP2C19;LIM;VERDE;Nessun dato disponibile.
+Reboxetine;CYP2C19;LPM;VERDE;Nessun dato disponibile.
+Reboxetine;CYP2C19;NM;VERDE;Nessun dato disponibile.
+Reboxetine;CYP2C19;PM;VERDE;Nessun dato disponibile.
+Reboxetine;CYP2C19;RM;VERDE;Nessun dato disponibile.
+Reboxetine;CYP2C19;UM;VERDE;Nessun dato disponibile.
+Reboxetine;CYP2D6;IM;VERDE;Nessun dato disponibile.
+Reboxetine;CYP2D6;NM;VERDE;Nessun dato disponibile.
+Reboxetine;CYP2D6;PM;VERDE;Nessun dato disponibile.
+Reboxetine;CYP2D6;UM;VERDE;Nessun dato disponibile.
+Sertraline;CYP2C19;IM;GIALLO;Probabile riduzione del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata.
+Sertraline;CYP2C19;LIM;GIALLO;Probabile riduzione del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata.
+Sertraline;CYP2C19;LPM;VERDE;Nessun dato disponibile.
+Sertraline;CYP2C19;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Sertraline;CYP2C19;PM;ROSSO;Maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata. Non superare la dose giornaliera di 75mg al giorno.
+Sertraline;CYP2C19;RM;GIALLO;Probabile incremento del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata. Si consiglia la scelta di una molecola alternativa tenendo anche in considerazione alcune caratteristiche del paziente (es età, funzionamento renale ed epatico).
+Sertraline;CYP2C19;UM;GIALLO;Probabile incremento del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata. Si consiglia la scelta di una molecola alternativa tenendo anche in considerazione alcune caratteristiche del paziente (es età, funzionamento renale ed epatico).
+Sertraline;CYP2D6;IM;VERDE;Nessun dato disponibile.
+Sertraline;CYP2D6;NM;VERDE;Nessun dato disponibile.
+Sertraline;CYP2D6;PM;VERDE;Nessun dato disponibile.
+Sertraline;CYP2D6;UM;VERDE;Nessun dato disponibile.
+Trazodone;CYP2C19;IM;VERDE;Nessun dato disponibile.
+Trazodone;CYP2C19;LIM;VERDE;Nessun dato disponibile.
+Trazodone;CYP2C19;LPM;VERDE;Nessun dato disponibile.
+Trazodone;CYP2C19;NM;VERDE;Nessun dato disponibile.
+Trazodone;CYP2C19;PM;VERDE;Nessun dato disponibile.
+Trazodone;CYP2C19;RM;VERDE;Nessun dato disponibile.
+Trazodone;CYP2C19;UM;VERDE;Nessun dato disponibile.
+Trazodone;CYP2D6;IM;VERDE;Nessun dato disponibile.
+Trazodone;CYP2D6;NM;VERDE;Nessun dato disponibile.
+Trazodone;CYP2D6;PM;VERDE;Nessun dato disponibile.
+Trazodone;CYP2D6;UM;VERDE;Nessun dato disponibile.
+Trimipramine;CYP2C19;IM;GIALLO;Probabile riduzione del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata.
+Trimipramine;CYP2C19;LIM;GIALLO;Probabile riduzione del metabolismo, non clinicamente rilevante. Iniziare la terapia alla dose terapeutica raccomandata.
+Trimipramine;CYP2C19;LPM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata.
+Trimipramine;CYP2C19;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Trimipramine;CYP2C19;PM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata.
+Trimipramine;CYP2C19;RM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Si consiglia una molecola alternativa.
+Trimipramine;CYP2C19;UM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Si consiglia una molecola alternativa.
+Trimipramine;CYP2D6;IM;ROSSO;Maggiore probabilità di effetti collaterali. Ridurre del 25% la dose iniziale rispetto a quella raccomandata.
+Trimipramine;CYP2D6;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Trimipramine;CYP2D6;PM;ROSSO;Maggiore probabilità di effetti collaterali. Ridurre del 50% la dose iniziale rispetto a quella raccomandata.
+Trimipramine;CYP2D6;UM;GIALLO;Riduzione dell'efficacia clinica. Considerare una molecola alternativa.
+Venlafaxine;CYP2C19;IM;VERDE;Nessun dato disponibile.
+Venlafaxine;CYP2C19;LIM;VERDE;Nessun dato disponibile.
+Venlafaxine;CYP2C19;LPM;VERDE;Nessun dato disponibile.
+Venlafaxine;CYP2C19;NM;VERDE;Nessun dato disponibile.
+Venlafaxine;CYP2C19;PM;VERDE;Nessun dato disponibile.
+Venlafaxine;CYP2C19;RM;VERDE;Nessun dato disponibile.
+Venlafaxine;CYP2C19;UM;VERDE;Nessun dato disponibile.
+Venlafaxine;CYP2D6;IM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Si consiglia una molecola alternativa.
+Venlafaxine;CYP2D6;NM;VERDE;Normale metabolizzatore. Iniziare la terapia alla dose terapeutica raccomandata.
+Venlafaxine;CYP2D6;PM;ROSSO;Riduzione dell'efficacia clinica e maggiore probabilità di effetti collaterali. Si consiglia una molecola alternativa.
+Venlafaxine;CYP2D6;UM;GIALLO;Riduzione dell'efficacia clinica. Considerare una molecola alternativa.
+Vortioxetine;CYP2C19;IM;VERDE;Nessun dato disponibile.
+Vortioxetine;CYP2C19;LIM;VERDE;Nessun dato disponibile.
+Vortioxetine;CYP2C19;LPM;VERDE;Nessun dato disponibile.
+Vortioxetine;CYP2C19;NM;VERDE;Nessun dato disponibile.
+Vortioxetine;CYP2C19;PM;VERDE;Nessun dato disponibile.
+Vortioxetine;CYP2C19;RM;VERDE;Nessun dato disponibile.
+Vortioxetine;CYP2C19;UM;VERDE;Nessun dato disponibile.
+Vortioxetine;CYP2D6;IM;VERDE;Nessun dato disponibile.
+Vortioxetine;CYP2D6;NM;VERDE;Nessun dato disponibile.
+Vortioxetine;CYP2D6;PM;VERDE;Nessun dato disponibile.
+Vortioxetine;CYP2D6;UM;VERDE;Nessun dato disponibile.

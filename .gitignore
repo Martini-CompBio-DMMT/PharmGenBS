@@ -6,3 +6,4 @@ PharmGenBS.Rproj
 .DS_Store
 .Rbuildignore
 .gitignore
+data-raw/.venv/
