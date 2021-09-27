@@ -11,16 +11,16 @@ extract_drug_guidelines <- function(drug, sample_genotype) {
 
   CYP <- c("CYP2D6", "CYP2C19")
   # extract_gene_guide("CYP2C19", drug_guide_CYP, sample_genotype, variable="Gene")
-  cyp_guide <- lapply(CYP, extract_gene_guide, drug_guide=drug_guide_c,
+  cyp_guide <- lapply(CYP, PharmGenBS:::extract_gene_guide, drug_guide=drug_guide_c,
                       sample_genotype=sample_genotype, fvar="Gene", pg="Phenotype")
 
   genes <- c("SLC6A4")
-  slc_guide <- lapply(genes, extract_gene_guide, drug_guide=drug_guide_d,
+  slc_guide <- lapply(genes, PharmGenBS:::extract_gene_guide, drug_guide=drug_guide_d,
                       sample_genotype=sample_genotype, fvar="Gene", pg="Genotype")
 
 
   variants <- c("rs489693", "rs4713916", "rs7997012", "rs6295")
-  variants_guide <- lapply(variants, extract_gene_guide, drug_guide=drug_guide_d,
+  variants_guide <- lapply(variants, PharmGenBS:::extract_gene_guide, drug_guide=drug_guide_d,
                            sample_genotype=sample_genotype, fvar="Variant", pg="Genotype")
 
   all_drug_guide <- c(cyp_guide, slc_guide, variants_guide)
@@ -38,6 +38,10 @@ extract_drug_guidelines <- function(drug, sample_genotype) {
 extract_gene_guide <- function(feature, drug_guide, sample_genotype,
                                fvar=c("Gene", "Variant"),
                                pg=c("Genotype", "Phenotype")) {
+
+  if (!nrow(drug_guide)) {
+    return(drug_guide)
+  }
 
   genotype <- feature
   phenotype <- paste0(feature, "_pheno")
@@ -60,5 +64,4 @@ extract_gene_guide <- function(feature, drug_guide, sample_genotype,
   }
   gdg
 }
-
 
