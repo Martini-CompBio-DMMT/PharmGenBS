@@ -34,6 +34,12 @@ get_patient_clinical_guidelines <- function(patient, sample_info_table, remove_l
   # extract_drug_guidelines(drug, sample)
 
   drugs_info <- lapply(ptz_drugs, extract_drug_guidelines, sample)
+
+  for(drug in ptz_drugs) {
+    print(drug)
+    extract_drug_guidelines(drug, sample)
+  }
+
   names(drugs_info) <- ptz_drugs
 
   lights <- extract_suggestion_table(drugs_info)

@@ -23,6 +23,11 @@ extract_drug_guidelines <- function(drug, sample_genotype) {
   variants_guide <- lapply(variants, PharmGenBS:::extract_gene_guide, drug_guide=drug_guide_d,
                            sample_genotype=sample_genotype, fvar="Variant", pg="Genotype")
 
+  # for (feature in variants) {
+  #   print(feature)
+  #   PharmGenBS:::extract_gene_guide(feature, drug_guide=drug_guide_d, sample_genotype, fvar="Variant", pg="Genotype")
+  # }
+
   all_drug_guide <- c(cyp_guide, slc_guide, variants_guide)
   names(all_drug_guide) <- c(CYP, genes, variants)
   all_drug_guide
@@ -58,7 +63,12 @@ extract_gene_guide <- function(feature, drug_guide, sample_genotype,
 
   gene_drug_guide <- drug_guide[drug_guide[,fvar[1]] == feature, ,drop=F]
 
+  if (!nrow(gene_drug_guide))
+    return(gene_drug_guide)
+
   gdg <- gene_drug_guide[gene_drug_guide[pg[1]] == sample_genotype[,phenoOrGenotype], ]
+
+
   if (pg[1] == "Phenotype" & nrow(gdg)>0) {
     gdg$Genotype <- sample_genotype[,feature]
   }
