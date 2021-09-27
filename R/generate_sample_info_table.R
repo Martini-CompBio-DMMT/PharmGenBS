@@ -21,10 +21,12 @@ generate_sample_info_table <- function(sample_info_file, sample_genotypes_file) 
                    paste(sample_with_no_info, collapse = ", ")))
   }
 
-  missing_genotypes <- data.frame(matrix(NA, 1, 10, dimnames=list(sample_with_no_genotype, colnames(samples_genotypes))))
-  missing_genotypes$Sample <- sample_with_no_genotype
+  if (length(sample_with_no_genotype)) {
+    missing_genotypes <- data.frame(matrix(NA, 1, 10, dimnames=list(sample_with_no_genotype, colnames(samples_genotypes))))
+    missing_genotypes$Sample <- sample_with_no_genotype
 
-  samples_genotypes <- rbind(samples_genotypes, missing_genotypes)
+    samples_genotypes <- rbind(samples_genotypes, missing_genotypes)
+  }
 
   if (!identical(sort(row.names(samples_genotypes)), sort(row.names(samples_info))))
     stop("Sample names confusion: please check sample info and genotypes")
