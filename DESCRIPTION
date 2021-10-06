@@ -1,14 +1,16 @@
 Package: PharmGenBS
 Type: Package
 Title: Handle the report creation
-Version: 1.0.0
+Version: 1.0.1
 Author: Paolo Martini
 Maintainer: <paolo.martini@unibs.it>
-Description: Create the tables to create the report
-    Contains guidelines and pharma description
-License: AGPL3
+Description: Create the tables to create the report.
+  Tool to transform clinical guidelins in PDF reports.
+  Contains guidelines and pharma description.
+License: AGPL-3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
+Imports: kableExtra, rmarkdown
 Depends: 
     R (>= 2.10)

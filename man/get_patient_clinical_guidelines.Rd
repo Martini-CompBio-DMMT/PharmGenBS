@@ -4,7 +4,18 @@
 \alias{get_patient_clinical_guidelines}
 \title{Read and format sample info and sample genotypes}
 \usage{
-get_patient_clinical_guidelines(patient, sample_info_table)
+get_patient_clinical_guidelines(
+  patient,
+  sample_info_table,
+  remove_last = FALSE
+)
+}
+\arguments{
+\item{patient}{patient id}
+
+\item{sample_info_table}{table obtained merging sample_info and sample_geno}
+
+\item{remove_last}{internal use only: remove the last known drug}
 }
 \description{
 Read and format sample info and sample genotypes

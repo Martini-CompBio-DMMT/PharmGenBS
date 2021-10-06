@@ -13,6 +13,12 @@ extract_gene_guide(
 )
 }
 \arguments{
+\item{feature}{the gene/phenotype to check}
+
+\item{drug_guide}{drug guidelines}
+
+\item{sample_genotype}{sample genotype infos (data.frame)}
+
 \item{fvar}{feature Variable name to select column accordingly}
 
 \item{pg}{Phenotype or Genotype}

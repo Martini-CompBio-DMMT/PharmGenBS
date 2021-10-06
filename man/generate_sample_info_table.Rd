@@ -6,6 +6,11 @@
 \usage{
 generate_sample_info_table(sample_info_file, sample_genotypes_file)
 }
+\arguments{
+\item{sample_info_file}{Get patients' file info form web_app generated through Prepare_data_Mac_v2.py}
+
+\item{sample_genotypes_file}{Get patients' genotype info file form web_app generated through Prepare_data_Mac_v2.py}
+}
 \description{
 Read and format sample info and sample genotypes
 }

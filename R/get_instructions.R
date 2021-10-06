@@ -1,14 +1,17 @@
-prepare_data <- function(){
-  data(fcinetica) # togliere se non necessario
-  data(fdinamica) # togliere se non necessario
-  data(all_drugs) # togliere se non necessario
-
-  sample_info_table <- generate_sample_info_table("../web_app/samples_info.tsv", "../web_app/samples_genos.tsv")
-  patient <- sample_info_table$Sample[1]
-}
+# prepare_data <- function(){
+#   data(fcinetica) # togliere se non necessario
+#   data(fdinamica) # togliere se non necessario
+#   data(all_drugs) # togliere se non necessario
+#
+#   sample_info_table <- generate_sample_info_table("../web_app/samples_info.tsv", "../web_app/samples_genos.tsv")
+#   patient <- sample_info_table$Sample[1]
+# }
 
 #' Read and format sample info and sample genotypes
 #'
+#' @param patient patient id
+#' @param sample_info_table table obtained merging sample_info and sample_geno
+#' @param remove_last internal use only: remove the last known drug
 #' @export
 #'
 get_patient_clinical_guidelines <- function(patient, sample_info_table, remove_last=FALSE) {

@@ -1,5 +1,8 @@
 #' Extract drug infos
 #'
+#' @param drug drug name
+#' @param sample_genotype sample genotype infos
+#' @importFrom utils data
 #' @export
 #'
 extract_drug_guidelines <- function(drug, sample_genotype) {
@@ -37,6 +40,9 @@ extract_drug_guidelines <- function(drug, sample_genotype) {
 
 #' Extract gene specific drug guide
 #'
+#' @param feature the gene/phenotype to check
+#' @param drug_guide drug guidelines
+#' @param sample_genotype sample genotype infos (data.frame)
 #' @param fvar feature Variable name to select column accordingly
 #' @param pg Phenotype or Genotype
 #'

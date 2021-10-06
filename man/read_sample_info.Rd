@@ -6,6 +6,9 @@
 \usage{
 read_sample_info(file)
 }
+\arguments{
+\item{file}{file to read in}
+}
 \description{
 Read in sample clinical info
 }

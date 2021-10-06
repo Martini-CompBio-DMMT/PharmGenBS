@@ -1,5 +1,7 @@
 #' Read and format sample info and sample genotypes
 #'
+#' @param sample_info_file Get patients' file info form web_app generated through Prepare_data_Mac_v2.py
+#' @param sample_genotypes_file Get patients' genotype info file form web_app generated through Prepare_data_Mac_v2.py
 #' @export
 #'
 generate_sample_info_table <- function(sample_info_file, sample_genotypes_file) {
@@ -43,6 +45,7 @@ generate_sample_info_table <- function(sample_info_file, sample_genotypes_file) 
 
 #' Read in sample clinical info
 #'
+#' @param file file to read in
 #' @importFrom utils read.table
 #' @export
 #'
@@ -58,6 +61,7 @@ read_sample_info <- function(file) {
 
 #' Read in sample genotypes
 #'
+#' @param file file to read in
 #' @importFrom utils read.table
 #' @export
 #'

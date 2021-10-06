@@ -6,6 +6,9 @@
 \usage{
 read_sample_genos(file)
 }
+\arguments{
+\item{file}{file to read in}
+}
 \description{
 Read in sample genotypes
 }

@@ -6,6 +6,11 @@
 \usage{
 extract_drug_guidelines(drug, sample_genotype)
 }
+\arguments{
+\item{drug}{drug name}
+
+\item{sample_genotype}{sample genotype infos}
+}
 \description{
 Extract drug infos
 }
