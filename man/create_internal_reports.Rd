@@ -4,12 +4,18 @@
 \alias{create_internal_reports}
 \title{Create the samples infos to create the Report (internal use only)}
 \usage{
-create_internal_reports(file_info, file_genos)
+create_internal_reports(
+  file_info,
+  file_genos,
+  useStoredAll_patients_report = FALSE
+)
 }
 \arguments{
 \item{file_info}{Get patients' file info form web_app generated through Prepare_data_Mac_v2.py}
 
 \item{file_genos}{Get patients' genotype info file form web_app generated through Prepare_data_Mac_v2.py}
+
+\item{useStoredAll_patients_report}{reuse stored data}
 }
 \description{
 Create the samples infos to create the Report (internal use only)

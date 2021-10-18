@@ -1,7 +1,7 @@
 Package: PharmGenBS
 Type: Package
 Title: Handle the report creation
-Version: 1.0.1
+Version: 1.0.2
 Author: Paolo Martini
 Maintainer: <paolo.martini@unibs.it>
 Description: Create the tables to create the report.
@@ -11,6 +11,6 @@ License: AGPL-3
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
-Imports: kableExtra, rmarkdown
+Imports: rmarkdown
 Depends: 
     R (>= 2.10)
